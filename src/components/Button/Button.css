@@ -4,10 +4,10 @@
   border-radius: 50%;
   cursor: pointer;
   display: flex;
-  font-size: 45px;
-  height: 110px;
+  font-size: 20px;
+  height: 70px;
   justify-content: center;
-  width: 110px;
+  width: 90px;
   transition: filter 0.3s ease-in;
 }
 
